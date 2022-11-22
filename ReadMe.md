@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project classifies past loans using the K Nearest Neighbors Classifier, Support Vector Machine Classifier and the Decision Tree Classifier.
+This project classifies past loans using the K Nearest Neighbors Classifier, Support Vector Machines(SVM) Classifier and the Decision Tree Classifier.
 
 ## Libraries and tools used
 
